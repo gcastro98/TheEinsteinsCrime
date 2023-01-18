@@ -1,0 +1,15 @@
+.div_icon {
+    align-items: center;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.cellUnpadded-161, .cellTitle-152 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.prueba {
+    width: auto;
+}
